@@ -2,7 +2,7 @@
 
 I will stock every exercices I try while learning to code with Java
 
-1. Sum A + B 
+1. Sum A + B
 2. Reversing a String
 3. Number Guessing Game
 4. Creating a Calculator
@@ -15,4 +15,3 @@ I will stock every exercices I try while learning to code with Java
 11. Create a Chess Game
 12. Snake Game
 13. Copycat Project
-
