@@ -1,18 +1,2 @@
-## Getting Started
-
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+3. Number Guessing Game
+This is a simple game that can help you get your feet wet with Java. The game is relatively simple — the computer generates a random number, and the user must guess the number. The computer will then let the user know that their guess is too high, too low, or correct. This can be free-form, allowing an unlimited number of guesses, or give the user a set number of guesses before the game ends. I choose to limit guesses a 10.
